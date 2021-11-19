@@ -1,0 +1,28 @@
+{
+  "name": "jobmadrid-challenge",
+  "version": "1.0.0",
+  "description": "Challenge de Nuwe - JOBMadrid | Company analytics",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "challenge",
+    "jobmadrid"
+  ],
+  "author": "Ezequiel Migueles Abraira",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.2.0",
+    "helmet": "^4.6.0",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15"
+  }
+}
