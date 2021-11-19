@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/ichikonwd/hackaton-jobmadrid-company-analytics/badge/main)](https://www.codefactor.io/repository/github/ichikonwd/hackaton-jobmadrid-company-analytics/overview/main)
+
 # Hackaton Challenge - JOBMadrid Backend
 
 Resumen:
