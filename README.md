@@ -1,6 +1,7 @@
 # Hackaton Challenge - JOBMadrid Backend
 
-> Resumen
+Resumen:
+
 > Desde el equipo de front se está creando un panel de Networking para poder filtrar una lista de empresas de forma simple y conseguir que la conexión entre empresas y usuarios sea más fluida.
 > Para mejorar más la experiéncia de usuario, en la versión V2 se quieren mostrar unas analíticas sobre las empresas que hay en la base de datos.
 > Y ahí reside el reto, en generar varios endpoints que ayuden al equipo de front a montar un panel de analíticas sin tener que tratar los datos directamente desde allí.
@@ -59,14 +60,14 @@ Una estructura simple de carpetas que nos ayudará a organizar nuestro proyecto 
 
 ## Installation
 
-Es necesario tener instalado el paquete [npm](https://www.npmjs.com/) para poder utilizar el comando [npm install](https://www.npmjs.com/cli/install)
-
 ```shell
     # Clone or install commands
     npm clone https://github.com/IchikonWD/Hackaton-JOBMadrid-Company-analytics.git
     cd Hackaton-JOBMadrid-Company-analytics
     npm install
 ```
+
+Es necesario tener instalado el paquete [npm](https://www.npmjs.com/) para poder utilizar el comando [npm install](https://www.npmjs.com/cli/install)
 
 ## Uso
 
